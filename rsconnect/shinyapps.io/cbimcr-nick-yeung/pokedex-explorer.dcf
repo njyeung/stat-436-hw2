@@ -1,0 +1,10 @@
+name: pokedex-explorer
+title:
+username: cbimcr-nick-yeung
+account: cbimcr-nick-yeung
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16746010
+bundleId: 11620944
+url: https://cbimcr-nick-yeung.shinyapps.io/pokedex-explorer/
+version: 1
